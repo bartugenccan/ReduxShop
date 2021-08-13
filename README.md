@@ -3,7 +3,7 @@
  <h2>
         A redux Shop app with FakeStore API. Fetched the data from FakeStore
         with axios. Used Redux for the app functions. You can choose an Shop
-        Item and go to it's details by router.{" "}
+        Item and go to it's details by router.
       </h2>
       <h3>
         I Used:
